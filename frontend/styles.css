@@ -1,8 +1,17 @@
 body, html {
-    height: 100%;
+    height: 80%;
     margin: 0;
 }
 
 #map { 
-    height: 180px; 
+    height: 180px;
+    margin-left: 280px;
+
+}
+
+.leaflet-container {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
 }
