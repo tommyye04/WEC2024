@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <base target="_top">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scrollable Map</title>
@@ -10,6 +11,18 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+      .leaflet-container {
+        height: 400px;
+        width: 100%;
+        max-width: 100%;
+        max-height: 70%;
+      }
+    </style>
   </head>
 <body>
     <div id="map"></div>
