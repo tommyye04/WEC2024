@@ -1,0 +1,1602 @@
+[
+  {
+    "Name": "Pannier",
+    "long": "20.9791382",
+    "lat": "44.2327226",
+    "date": "1/7/2023",
+    "intensity": "7",
+    "type": "tornado"
+  },
+  {
+    "Name": "Zamit",
+    "long": "120.946263",
+    "lat": "30.526435",
+    "date": "2/16/2023",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Bitchip",
+    "long": "29.268579",
+    "lat": "49.4863064",
+    "date": "11/16/2022",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Ronstring",
+    "long": "117.1514753",
+    "lat": "-0.5025568",
+    "date": "4/28/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Aerified",
+    "long": "86.358927",
+    "lat": "54.519499",
+    "date": "11/10/2022",
+    "intensity": "10",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Lotlux",
+    "long": "60.3414529",
+    "lat": "41.3895075",
+    "date": "2/20/2023",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Stringtough",
+    "long": "112.8135304",
+    "lat": "-7.305958",
+    "date": "5/20/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Wrapsafe",
+    "long": "0.4785495",
+    "lat": "6.6101493",
+    "date": "5/18/2023",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Y-find",
+    "long": "13.1611762",
+    "lat": "58.5033171",
+    "date": "11/3/2022",
+    "intensity": "7",
+    "type": "flood"
+  },
+  {
+    "Name": "Otcom",
+    "long": "-58.487763",
+    "lat": "-34.5795379",
+    "date": "7/2/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Span",
+    "long": "123.7330073",
+    "lat": "7.7762319",
+    "date": "11/3/2022",
+    "intensity": "6",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Aerified",
+    "long": "85.7788422",
+    "lat": "51.8321777",
+    "date": "2/14/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Zaam-Dox",
+    "long": "43.7557983",
+    "lat": "40.8428562",
+    "date": "1/1/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Domainer",
+    "long": "132.5026207",
+    "lat": "35.1972586",
+    "date": "1/29/2023",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Flowdesk",
+    "long": "-7.9720237",
+    "lat": "41.3199734",
+    "date": "1/20/2023",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Tin",
+    "long": "-5.24798",
+    "lat": "34.94873",
+    "date": "7/3/2023",
+    "intensity": "1",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Gembucket",
+    "long": "-80.5993854",
+    "lat": "41.1071733",
+    "date": "4/10/2023",
+    "intensity": "10",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Flexidy",
+    "long": "72.8578648",
+    "lat": "29.2083348",
+    "date": "8/8/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Toughjoyfax",
+    "long": "-39.2617368",
+    "lat": "-12.9698503",
+    "date": "5/6/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Andalax",
+    "long": "-9.0817894",
+    "lat": "38.5537924",
+    "date": "12/16/2022",
+    "intensity": "5",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Cardify",
+    "long": "-52.3375886",
+    "lat": "-31.7653989",
+    "date": "8/8/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Bamity",
+    "long": "-0.302506",
+    "lat": "45.417087",
+    "date": "4/3/2023",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Stringtough",
+    "long": "97.910792",
+    "lat": "35.083703",
+    "date": "12/15/2022",
+    "intensity": "1",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Tres-Zap",
+    "long": "124.9017692",
+    "lat": "6.3524753",
+    "date": "7/6/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Konklux",
+    "long": "114.498761",
+    "lat": "37.444498",
+    "date": "9/20/2023",
+    "intensity": "4",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Holdlamis",
+    "long": "121.0927689",
+    "lat": "16.3513442",
+    "date": "3/27/2023",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Voyatouch",
+    "long": "2.0776887",
+    "lat": "41.4904044",
+    "date": "11/26/2022",
+    "intensity": "10",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Tampflex",
+    "long": "-16.4405872",
+    "lat": "13.81425",
+    "date": "12/8/2022",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Overhold",
+    "long": "23.1684533",
+    "lat": "48.9339587",
+    "date": "12/23/2022",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Home Ing",
+    "long": "19.8365034",
+    "lat": "49.7266083",
+    "date": "10/8/2022",
+    "intensity": "5",
+    "type": "flood"
+  },
+  {
+    "Name": "Treeflex",
+    "long": "124.8905151",
+    "lat": "-9.0933664",
+    "date": "5/31/2023",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Solarbreeze",
+    "long": "-73.583333",
+    "lat": "-13.308333",
+    "date": "9/26/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Zathin",
+    "long": "110.7880536",
+    "lat": "-6.8243672",
+    "date": "5/4/2023",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Transcof",
+    "long": "69.2281531",
+    "lat": "33.6042793",
+    "date": "2/9/2023",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "It",
+    "long": "121.1870788",
+    "lat": "14.5966665",
+    "date": "4/3/2023",
+    "intensity": "10",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Prodder",
+    "long": "106.2327247",
+    "lat": "21.3392818",
+    "date": "2/22/2023",
+    "intensity": "10",
+    "type": "flood"
+  },
+  {
+    "Name": "Quo Lux",
+    "long": "25.2708919",
+    "lat": "60.3763373",
+    "date": "5/12/2023",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Fixflex",
+    "long": "-9.3264629",
+    "lat": "38.6871727",
+    "date": "7/31/2023",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Alpha",
+    "long": "8.9714623",
+    "lat": "44.3972703",
+    "date": "8/28/2023",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Flexidy",
+    "long": "104.470164",
+    "lat": "1.008763",
+    "date": "1/11/2023",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Rank",
+    "long": "36.9565089",
+    "lat": "-7.703889",
+    "date": "2/3/2023",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Zamit",
+    "long": "15.7509093",
+    "lat": "46.1649072",
+    "date": "2/2/2023",
+    "intensity": "4",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Tresom",
+    "long": "116.365867",
+    "lat": "39.912288",
+    "date": "3/12/2023",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Otcom",
+    "long": "25.6100339",
+    "lat": "57.331693",
+    "date": "6/16/2023",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Quo Lux",
+    "long": "53.0515402",
+    "lat": "51.7059957",
+    "date": "11/8/2022",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Pannier",
+    "long": "-74.0028364",
+    "lat": "18.1817674",
+    "date": "7/2/2023",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Regrant",
+    "long": "-7.5618071",
+    "lat": "40.1872593",
+    "date": "2/14/2023",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Y-find",
+    "long": "21.6682269",
+    "lat": "38.1625093",
+    "date": "9/25/2023",
+    "intensity": "2",
+    "type": "flood"
+  },
+  {
+    "Name": "Wrapsafe",
+    "long": "-58.5616502",
+    "lat": "-34.6698749",
+    "date": "4/27/2023",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Zoolab",
+    "long": "49.8739267",
+    "lat": "11.4720137",
+    "date": "1/5/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Redhold",
+    "long": "31.5370003",
+    "lat": "-0.7069135",
+    "date": "9/23/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Fixflex",
+    "long": "100.2625222",
+    "lat": "16.75245",
+    "date": "3/6/2023",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Zamit",
+    "long": "-84.1685232",
+    "lat": "9.9825621",
+    "date": "2/6/2023",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Viva",
+    "long": "116.554665",
+    "lat": "40.570338",
+    "date": "12/5/2022",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Namfix",
+    "long": "108.2496145",
+    "lat": "-7.0370275",
+    "date": "1/6/2023",
+    "intensity": "10",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Gembucket",
+    "long": "6.798413",
+    "lat": "11.01088",
+    "date": "11/10/2022",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Span",
+    "long": "-74.6400432",
+    "lat": "7.5522902",
+    "date": "11/15/2022",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Job",
+    "long": "-72.6131562",
+    "lat": "-40.6607937",
+    "date": "1/18/2023",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Zontrax",
+    "long": "116.30275",
+    "lat": "29.657856",
+    "date": "2/17/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Matsoft",
+    "long": "-79.4956974",
+    "lat": "22.0808448",
+    "date": "4/5/2023",
+    "intensity": "5",
+    "type": "tornado"
+  },
+  {
+    "Name": "Konklab",
+    "long": "37.7144645",
+    "lat": "-3.7688094",
+    "date": "11/13/2022",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Wrapsafe",
+    "long": "113.4895468",
+    "lat": "23.3854292",
+    "date": "4/14/2023",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Daltfresh",
+    "long": "114.137862",
+    "lat": "22.541373",
+    "date": "4/1/2023",
+    "intensity": "10",
+    "type": "flood"
+  },
+  {
+    "Name": "Cookley",
+    "long": "28.2765218",
+    "lat": "48.2441219",
+    "date": "6/16/2023",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Greenlam",
+    "long": "17.3583673",
+    "lat": "44.9532375",
+    "date": "4/1/2023",
+    "intensity": "3",
+    "type": "tornado"
+  },
+  {
+    "Name": "Overhold",
+    "long": "123.5560069",
+    "lat": "-8.3848454",
+    "date": "2/3/2023",
+    "intensity": "1",
+    "type": "flood"
+  },
+  {
+    "Name": "Bitwolf",
+    "long": "-62.7250402",
+    "lat": "17.3239734",
+    "date": "11/15/2022",
+    "intensity": "1",
+    "type": "tornado"
+  },
+  {
+    "Name": "Flexidy",
+    "long": "112.497228",
+    "lat": "27.955261",
+    "date": "7/8/2023",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Y-Solowarm",
+    "long": "71.4061876",
+    "lat": "35.0021932",
+    "date": "12/11/2022",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Fix San",
+    "long": "-71.459344",
+    "lat": "46.747041",
+    "date": "9/18/2023",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Toughjoyfax",
+    "long": "125.243313",
+    "lat": "5.742809",
+    "date": "10/23/2022",
+    "intensity": "10",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Lotstring",
+    "long": "47.040538",
+    "lat": "38.864241",
+    "date": "3/30/2023",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Bigtax",
+    "long": "88.6331758",
+    "lat": "25.6279123",
+    "date": "3/11/2023",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Voltsillam",
+    "long": "-77.7312977",
+    "lat": "39.7164885",
+    "date": "7/24/2023",
+    "intensity": "10",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Subin",
+    "long": "9.2841023",
+    "lat": "7.1657856",
+    "date": "1/20/2023",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Toughjoyfax",
+    "long": "123.906",
+    "lat": "-10.1331",
+    "date": "10/2/2022",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Lotstring",
+    "long": "114.498761",
+    "lat": "37.444498",
+    "date": "4/20/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Y-find",
+    "long": "-72.317793",
+    "lat": "19.6808413",
+    "date": "6/17/2023",
+    "intensity": "5",
+    "type": "flood"
+  },
+  {
+    "Name": "Zathin",
+    "long": "-48.1199217",
+    "lat": "-23.176636",
+    "date": "3/18/2023",
+    "intensity": "10",
+    "type": "flood"
+  },
+  {
+    "Name": "Overhold",
+    "long": "102.665768",
+    "lat": "24.414825",
+    "date": "7/23/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Span",
+    "long": "42.0384264",
+    "lat": "44.2220765",
+    "date": "3/22/2023",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Stronghold",
+    "long": "-61.5325824",
+    "lat": "10.6693395",
+    "date": "8/20/2023",
+    "intensity": "10",
+    "type": "tornado"
+  },
+  {
+    "Name": "Daltfresh",
+    "long": "-76.87192",
+    "lat": "0.66643",
+    "date": "6/28/2023",
+    "intensity": "7",
+    "type": "tornado"
+  },
+  {
+    "Name": "Gembucket",
+    "long": "110.5934986",
+    "lat": "-7.6622643",
+    "date": "9/12/2023",
+    "intensity": "2",
+    "type": "flood"
+  },
+  {
+    "Name": "Bamity",
+    "long": "105.96282",
+    "lat": "32.323256",
+    "date": "11/21/2022",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Stronghold",
+    "long": "2.3405004",
+    "lat": "48.8753655",
+    "date": "7/2/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Ventosanzap",
+    "long": "16.5529968",
+    "lat": "59.3703069",
+    "date": "6/17/2023",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Prodder",
+    "long": "108.525539",
+    "lat": "-7.0130494",
+    "date": "1/3/2023",
+    "intensity": "7",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Zoolab",
+    "long": "125.5668499",
+    "lat": "41.733296",
+    "date": "6/22/2023",
+    "intensity": "9",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Cardguard",
+    "long": "19.9864728",
+    "lat": "51.2568887",
+    "date": "10/7/2022",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Voltsillam",
+    "long": "21.5535126",
+    "lat": "51.6919243",
+    "date": "1/2/2023",
+    "intensity": "10",
+    "type": "tornado"
+  },
+  {
+    "Name": "Bytecard",
+    "long": "17.3434944",
+    "lat": "49.6052603",
+    "date": "9/14/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Lotlux",
+    "long": "-61.444406",
+    "lat": "15.444313",
+    "date": "7/14/2023",
+    "intensity": "3",
+    "type": "tornado"
+  },
+  {
+    "Name": "Konklux",
+    "long": "-105.03443",
+    "lat": "51.85006",
+    "date": "4/16/2023",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Pannier",
+    "long": "24.9872821",
+    "lat": "-8.7368981",
+    "date": "12/9/2022",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Mat Lam Tam",
+    "long": "107.3787448",
+    "lat": "-6.9547303",
+    "date": "5/15/2023",
+    "intensity": "7",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Fixflex",
+    "long": "115.667208",
+    "lat": "37.039991",
+    "date": "6/3/2023",
+    "intensity": "10",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Sonair",
+    "long": "124.1810057",
+    "lat": "-9.9422458",
+    "date": "8/7/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Pannier",
+    "long": "101.5395705",
+    "lat": "2.9864896",
+    "date": "10/2/2022",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Biodex",
+    "long": "36.5715924",
+    "lat": "5.7806339",
+    "date": "8/17/2023",
+    "intensity": "1",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Lotstring",
+    "long": "23.697829",
+    "lat": "3.8164718",
+    "date": "4/21/2023",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Tresom",
+    "long": "115.062214",
+    "lat": "28.22335",
+    "date": "4/14/2023",
+    "intensity": "5",
+    "type": "flood"
+  },
+  {
+    "Name": "Regrant",
+    "long": "113.1916737",
+    "lat": "23.9563274",
+    "date": "10/26/2022",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Sub-Ex",
+    "long": "121.0774147",
+    "lat": "14.7569624",
+    "date": "5/9/2023",
+    "intensity": "4",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Flexidy",
+    "long": "116.7810211",
+    "lat": "40.2251411",
+    "date": "7/23/2023",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Stronghold",
+    "long": "35.070676",
+    "lat": "32.225262",
+    "date": "2/3/2023",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Stronghold",
+    "long": "112.4023244",
+    "lat": "-7.1259703",
+    "date": "5/3/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Gembucket",
+    "long": "-60.6743215",
+    "lat": "-32.947692",
+    "date": "2/21/2023",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Veribet",
+    "long": "119.3831026",
+    "lat": "-5.3383734",
+    "date": "12/30/2022",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Domainer",
+    "long": "105.093908",
+    "lat": "24.489685",
+    "date": "12/7/2022",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Keylex",
+    "long": "-6.2823331",
+    "lat": "57.013064",
+    "date": "11/26/2022",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Keylex",
+    "long": "-40.2271243",
+    "lat": "-12.5477492",
+    "date": "2/1/2023",
+    "intensity": "1",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Stringtough",
+    "long": "125.2789544",
+    "lat": "24.8051928",
+    "date": "8/14/2023",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Ventosanzap",
+    "long": "43.70228",
+    "lat": "15.61576",
+    "date": "1/5/2023",
+    "intensity": "10",
+    "type": "flood"
+  },
+  {
+    "Name": "Latlux",
+    "long": "52.9759299",
+    "lat": "40.0336591",
+    "date": "11/15/2022",
+    "intensity": "4",
+    "type": "tornado"
+  },
+  {
+    "Name": "Subin",
+    "long": "66.66409",
+    "lat": "35.48936",
+    "date": "7/9/2023",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Viva",
+    "long": "-6.8028472",
+    "lat": "61.9952327",
+    "date": "2/17/2023",
+    "intensity": "9",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Biodex",
+    "long": "112.0118669",
+    "lat": "-8.0475926",
+    "date": "9/27/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "-103.2605763",
+    "lat": "25.7784224",
+    "date": "5/1/2023",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Regrant",
+    "long": "22.71667",
+    "lat": "38.4",
+    "date": "1/24/2023",
+    "intensity": "6",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Gembucket",
+    "long": "-107.05128",
+    "lat": "51.50008",
+    "date": "7/16/2023",
+    "intensity": "7",
+    "type": "flood"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "-45.4874873",
+    "lat": "-22.8450713",
+    "date": "5/2/2023",
+    "intensity": "3",
+    "type": "tornado"
+  },
+  {
+    "Name": "Quo Lux",
+    "long": "2.2159905",
+    "lat": "44.7535743",
+    "date": "6/14/2023",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Zontrax",
+    "long": "-87.5699999",
+    "lat": "37.97",
+    "date": "1/31/2023",
+    "intensity": "4",
+    "type": "flood"
+  },
+  {
+    "Name": "Zaam-Dox",
+    "long": "-80.4256976",
+    "lat": "7.9076232",
+    "date": "3/26/2023",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Quo Lux",
+    "long": "138.7601651",
+    "lat": "36.1113287",
+    "date": "8/3/2023",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Konklab",
+    "long": "-43.4150073",
+    "lat": "-20.3652719",
+    "date": "6/18/2023",
+    "intensity": "6",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Ronstring",
+    "long": "-86.550039",
+    "lat": "41.879109",
+    "date": "12/13/2022",
+    "intensity": "10",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Y-find",
+    "long": "12.87013",
+    "lat": "56.658933",
+    "date": "7/11/2023",
+    "intensity": "1",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Konklux",
+    "long": "110.8171082",
+    "lat": "-6.4712737",
+    "date": "10/20/2022",
+    "intensity": "1",
+    "type": "tornado"
+  },
+  {
+    "Name": "Tempsoft",
+    "long": "112.7420274",
+    "lat": "-8.0034823",
+    "date": "9/4/2023",
+    "intensity": "2",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Wrapsafe",
+    "long": "-48.5637543",
+    "lat": "-22.472994",
+    "date": "11/14/2022",
+    "intensity": "4",
+    "type": "flood"
+  },
+  {
+    "Name": "Zontrax",
+    "long": "113.454975",
+    "lat": "22.884636",
+    "date": "10/1/2022",
+    "intensity": "10",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Span",
+    "long": "140.3089223",
+    "lat": "38.4507739",
+    "date": "5/10/2023",
+    "intensity": "8",
+    "type": "flood"
+  },
+  {
+    "Name": "Voyatouch",
+    "long": "128.1744945",
+    "lat": "41.387384",
+    "date": "7/10/2023",
+    "intensity": "1",
+    "type": "tornado"
+  },
+  {
+    "Name": "Mat Lam Tam",
+    "long": "106.5024344",
+    "lat": "-6.1177509",
+    "date": "6/15/2023",
+    "intensity": "1",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Hatity",
+    "long": "17.016667",
+    "lat": "21.333333",
+    "date": "10/18/2022",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "121.341718",
+    "lat": "13.952977",
+    "date": "8/20/2023",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Cookley",
+    "long": "-75.8704611",
+    "lat": "-12.3446835",
+    "date": "1/8/2023",
+    "intensity": "6",
+    "type": "tornado"
+  },
+  {
+    "Name": "Tampflex",
+    "long": "-73.9830029",
+    "lat": "10.8698035",
+    "date": "11/11/2022",
+    "intensity": "6",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "61.4221758",
+    "lat": "57.3665832",
+    "date": "8/15/2023",
+    "intensity": "3",
+    "type": "flood"
+  },
+  {
+    "Name": "Home Ing",
+    "long": "-46.9343777",
+    "lat": "-22.363303",
+    "date": "7/9/2023",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Ventosanzap",
+    "long": "-80.8488498",
+    "lat": "41.2420649",
+    "date": "7/29/2023",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Pannier",
+    "long": "-46.8925845",
+    "lat": "-21.8324773",
+    "date": "4/19/2023",
+    "intensity": "3",
+    "type": "tornado"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "-42.4724578",
+    "lat": "-4.6722064",
+    "date": "12/30/2022",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Daltfresh",
+    "long": "129.96471",
+    "lat": "62.34824",
+    "date": "2/12/2023",
+    "intensity": "4",
+    "type": "flood"
+  },
+  {
+    "Name": "It",
+    "long": "-58.4754447",
+    "lat": "-34.5430068",
+    "date": "1/16/2023",
+    "intensity": "1",
+    "type": "flood"
+  },
+  {
+    "Name": "Biodex",
+    "long": "18.1203419",
+    "lat": "59.37407",
+    "date": "6/2/2023",
+    "intensity": "1",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Y-Solowarm",
+    "long": "-60.6961061",
+    "lat": "-32.9377962",
+    "date": "10/25/2022",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Tampflex",
+    "long": "108.758458",
+    "lat": "19.241239",
+    "date": "11/29/2022",
+    "intensity": "6",
+    "type": "flood"
+  },
+  {
+    "Name": "Fintone",
+    "long": "58.0384692",
+    "lat": "36.4056598",
+    "date": "7/2/2023",
+    "intensity": "6",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Keylex",
+    "long": "149.3023702",
+    "lat": "6.6885285",
+    "date": "5/15/2023",
+    "intensity": "3",
+    "type": "tornado"
+  },
+  {
+    "Name": "Holdlamis",
+    "long": "120.738172",
+    "lat": "27.804365",
+    "date": "11/16/2022",
+    "intensity": "9",
+    "type": "flood"
+  },
+  {
+    "Name": "Stim",
+    "long": "-8.4574423",
+    "lat": "41.5217223",
+    "date": "5/13/2023",
+    "intensity": "2",
+    "type": "flood"
+  },
+  {
+    "Name": "Bitchip",
+    "long": "124.9120662",
+    "lat": "-9.101629",
+    "date": "4/28/2023",
+    "intensity": "4",
+    "type": "flood"
+  },
+  {
+    "Name": "Namfix",
+    "long": "15.5284132",
+    "lat": "51.9653089",
+    "date": "11/20/2022",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Namfix",
+    "long": "17.2804413",
+    "lat": "62.1964266",
+    "date": "2/3/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Andalax",
+    "long": "107.687866",
+    "lat": "29.758227",
+    "date": "2/28/2023",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Job",
+    "long": "107.4055814",
+    "lat": "10.5353285",
+    "date": "4/25/2023",
+    "intensity": "4",
+    "type": "flood"
+  },
+  {
+    "Name": "Daltfresh",
+    "long": "123.3996176",
+    "lat": "9.8769686",
+    "date": "5/10/2023",
+    "intensity": "7",
+    "type": "flood"
+  },
+  {
+    "Name": "Sonsing",
+    "long": "61.8643252",
+    "lat": "37.6092461",
+    "date": "10/24/2022",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Bigtax",
+    "long": "21.8376406",
+    "lat": "49.9454719",
+    "date": "12/1/2022",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Span",
+    "long": "114.152183",
+    "lat": "38.02365",
+    "date": "1/12/2023",
+    "intensity": "1",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Treeflex",
+    "long": "67.1894488",
+    "lat": "41.6183527",
+    "date": "9/2/2023",
+    "intensity": "7",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Duobam",
+    "long": "121.2786716",
+    "lat": "14.5165603",
+    "date": "6/5/2023",
+    "intensity": "6",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Viva",
+    "long": "30.5550816",
+    "lat": "59.79769",
+    "date": "4/22/2023",
+    "intensity": "1",
+    "type": "tornado"
+  },
+  {
+    "Name": "Zaam-Dox",
+    "long": "-5.7415013",
+    "lat": "41.5120612",
+    "date": "7/21/2023",
+    "intensity": "7",
+    "type": "tornado"
+  },
+  {
+    "Name": "Asoka",
+    "long": "15.959277",
+    "lat": "51.9611016",
+    "date": "1/10/2023",
+    "intensity": "5",
+    "type": "tornado"
+  },
+  {
+    "Name": "Stim",
+    "long": "101.5134398",
+    "lat": "-2.9863926",
+    "date": "8/6/2023",
+    "intensity": "2",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Flowdesk",
+    "long": "22.0160467",
+    "lat": "40.9271303",
+    "date": "6/12/2023",
+    "intensity": "2",
+    "type": "flood"
+  },
+  {
+    "Name": "Tin",
+    "long": "106.726099",
+    "lat": "39.505925",
+    "date": "12/10/2022",
+    "intensity": "7",
+    "type": "flood"
+  },
+  {
+    "Name": "Lotstring",
+    "long": "-38.0005207",
+    "lat": "-11.1851883",
+    "date": "12/14/2022",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Konklab",
+    "long": "102.6298251",
+    "lat": "14.9649534",
+    "date": "12/17/2022",
+    "intensity": "8",
+    "type": "flood"
+  },
+  {
+    "Name": "Keylex",
+    "long": "174.9497836",
+    "lat": "-37.1954967",
+    "date": "4/7/2023",
+    "intensity": "1",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Treeflex",
+    "long": "124.58333",
+    "lat": "7.05",
+    "date": "11/15/2022",
+    "intensity": "5",
+    "type": "tornado"
+  },
+  {
+    "Name": "Otcom",
+    "long": "115.75",
+    "lat": "-3.283333",
+    "date": "11/26/2022",
+    "intensity": "7",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Quo Lux",
+    "long": "125.743983",
+    "lat": "8.47834",
+    "date": "12/3/2022",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Tres-Zap",
+    "long": "102.2261837",
+    "lat": "-1.2457596",
+    "date": "3/6/2023",
+    "intensity": "4",
+    "type": "tornado"
+  },
+  {
+    "Name": "Vagram",
+    "long": "35.072538",
+    "lat": "32.370069",
+    "date": "11/10/2022",
+    "intensity": "8",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Home Ing",
+    "long": "30.3403569",
+    "lat": "60.0456385",
+    "date": "9/23/2023",
+    "intensity": "6",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Andalax",
+    "long": "6.2747734",
+    "lat": "4.9211621",
+    "date": "1/5/2023",
+    "intensity": "1",
+    "type": "tornado"
+  },
+  {
+    "Name": "Rank",
+    "long": "119.382381",
+    "lat": "31.717564",
+    "date": "9/1/2023",
+    "intensity": "5",
+    "type": "tornado"
+  },
+  {
+    "Name": "Biodex",
+    "long": "-117.7659237",
+    "lat": "33.6682421",
+    "date": "9/26/2023",
+    "intensity": "5",
+    "type": "tornado"
+  },
+  {
+    "Name": "Bamity",
+    "long": "23.3261801",
+    "lat": "-34.0896763",
+    "date": "1/31/2023",
+    "intensity": "2",
+    "type": "tornado"
+  },
+  {
+    "Name": "Stringtough",
+    "long": "12.4859801",
+    "lat": "59.6806933",
+    "date": "2/28/2023",
+    "intensity": "9",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Cardguard",
+    "long": "20.5308214",
+    "lat": "52.7602576",
+    "date": "10/3/2022",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Latlux",
+    "long": "30.12389",
+    "lat": "59.4225",
+    "date": "1/22/2023",
+    "intensity": "3",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Redhold",
+    "long": "113.081508",
+    "lat": "22.579117",
+    "date": "8/28/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Zamit",
+    "long": "16.847761",
+    "lat": "46.8442339",
+    "date": "5/29/2023",
+    "intensity": "2",
+    "type": "flood"
+  },
+  {
+    "Name": "Job",
+    "long": "0.5957159",
+    "lat": "49.0871049",
+    "date": "6/22/2023",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Asoka",
+    "long": "-66.8424753",
+    "lat": "-29.4072828",
+    "date": "9/28/2023",
+    "intensity": "7",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Stim",
+    "long": "-8.768226",
+    "lat": "40.562696",
+    "date": "2/15/2023",
+    "intensity": "5",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Bitchip",
+    "long": "-88.8383036",
+    "lat": "15.026492",
+    "date": "9/16/2023",
+    "intensity": "8",
+    "type": "tornado"
+  },
+  {
+    "Name": "Tampflex",
+    "long": "-83.3155257",
+    "lat": "42.4395419",
+    "date": "7/14/2023",
+    "intensity": "7",
+    "type": "hurricane"
+  },
+  {
+    "Name": "Zaam-Dox",
+    "long": "6.624795",
+    "lat": "52.3517146",
+    "date": "10/3/2022",
+    "intensity": "3",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Latlux",
+    "long": "114.9416819",
+    "lat": "38.776362",
+    "date": "1/10/2023",
+    "intensity": "9",
+    "type": "tornado"
+  },
+  {
+    "Name": "Job",
+    "long": "69.0254926",
+    "lat": "39.8772715",
+    "date": "3/17/2023",
+    "intensity": "8",
+    "type": "earthquake"
+  },
+  {
+    "Name": "Transcof",
+    "long": "113.39277",
+    "lat": "22.517585",
+    "date": "5/3/2023",
+    "intensity": "5",
+    "type": "flood"
+  },
+  {
+    "Name": "Rank",
+    "long": "113.8526",
+    "lat": "-8.0299",
+    "date": "12/25/2022",
+    "intensity": "10",
+    "type": "tornado"
+  },
+  {
+    "Name": "Job",
+    "long": "114.797389",
+    "lat": "36.266505",
+    "date": "11/12/2022",
+    "intensity": "4",
+    "type": "tornado"
+  }
+]
