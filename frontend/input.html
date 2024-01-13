@@ -61,16 +61,45 @@
         />
         <label>Date</label>
       </div>
+
       <button type="button" onclick="getData()" id="add" disabled>Add</button>
     </form>
+
     <script src="./backend/add_event.js"></script>
     <button id="closeForm">Close</button>
+
     <script>
       document
         .getElementById("closeForm")
         .addEventListener("click", function () {
           window.parent.postMessage("closeForm", "*");
         });
+    </script>
+
+    <script>
+      function checkForm() {
+        const name_value = document.getElementById("name").value;
+        const long_value = document.getElementById("long").value;
+        const lat_value = document.getElementById("lat").value;
+        const intensity_value = document.getElementById("intensity").value;
+        const type_value = document.getElementById("type").value;
+        const date_value = document.getElementById("date").value;
+
+        const add_button = document.getElementById("add");
+
+        if (
+          name_value.trim() !== "" &&
+          long_value.trim() !== "" &&
+          lat_value.trim() !== "" &&
+          intensity_value.trim() !== "" &&
+          type_value.trim() !== "" &&
+          date_value.trim() !== ""
+        ) {
+          add_button.removeAttribute("disabled");
+        } else {
+          add_button.setAttribute("disabled", "disabled");
+        }
+      }
     </script>
   </head>
 </html>
