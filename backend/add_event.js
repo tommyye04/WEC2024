@@ -12,6 +12,8 @@ function getData() {
   console.log(intensity_value);
   console.log(type_value);
   console.log(date_value);
+
+ 
 }
 
 function checkForm() {
