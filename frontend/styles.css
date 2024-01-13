@@ -1,7 +1,9 @@
 body, html {
     height: 100%;
     margin: 0;
-    margin-right: 200px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
 }
 
 .leaflet-container {
@@ -31,14 +33,25 @@ body, html {
    }
 
 #addEventButton {
-    position: relative;
-    top: -500px;
-    margin-left: 40px;
+   position: relative;
+   top: -500px;
+   margin-left: 91px;
+   padding: 10px 20px;
+   background-color: #54adcb; /* Green background */
+   color: white; /* White text */
+   border: none; /* No border */
+   cursor: pointer; /* Cursor changes to a hand when hovering over the button */
+   transition: background-color 0.3s ease; /* Smooth transition effect */
+}
 
+/* Change the background color when the button is hovered over */
+#addEventButton:hover {
+   background-color: #4580a0;
 }
 
 #slider, #filters {
     position: relative;
     top: -480px;
     margin-left: 20px;
+    margin-right: 1000px;
 }

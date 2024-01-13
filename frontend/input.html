@@ -1,4 +1,62 @@
 <html>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f4f4f422;
+      margin: 0;
+      padding: 0;
+      margin-right: 1050px;
+      margin-left: 10px;
+      margin-top: 10px;
+    }
+
+    .add-event {
+      max-width: 400px;
+      margin: 50px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    form div {
+      margin-bottom: 15px;
+    }
+
+    input {
+      width: 100%;
+      padding: 8px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    label {
+      font-size: 14px;
+      color: #333;
+      margin-bottom: 5px;
+      display: block;
+    }
+
+    button {
+      background-color: #4caf50;
+      color: #fff;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+
+    #closeForm {
+      background-color: #f44336;
+    }
+  </style>
   <head class="add-event">
     <form action="/add" method="POST">
       <div>
@@ -9,7 +67,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Name</label>
+        <label></label>
       </div>
       <div>
         <input
@@ -19,7 +77,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Longitude</label>
+        <label></label>
       </div>
       <div>
         <input
@@ -29,7 +87,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Latitude</label>
+        <label></label>
       </div>
       <div>
         <input
@@ -39,7 +97,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Intensity</label>
+        <label></label>
       </div>
       <div>
         <input
@@ -49,7 +107,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Type</label>
+        <label></label>
       </div>
       <div>
         <input
@@ -59,7 +117,7 @@
           required
           oninput="checkForm()"
         />
-        <label>Date</label>
+        <label></label>
       </div>
 
       <button type="button" onclick="getData()" id="add" disabled>Add</button>
