@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const fs = require("fs");
 const parse = require("./index.js");
+const { json } = require("body-parser");
 const port = 3000;
 
 // Set the static folder to serve HTML files
@@ -21,7 +22,6 @@ app.post("/", function (req, res) {
     try {
       // Parse the JSON data
       const jsonData = JSON.parse(data);
-
       // Send the JSON data as the response
       res.json(jsonData);
     } catch (parseError) {

@@ -6,6 +6,15 @@ fetch("/", { method: "POST" })
   .then((text) => {
     // Try to parse the text as JSON
     const data = JSON.parse(text);
+
+    data.forEach((element) => {
+      L.marker([element.lat, element.long])
+        .addTo(map)
+        .bindPopup(
+          `Name: <strong>${element.Name}</strong> <br> Date: ${element.date} <br> Type: ${element.type} <br> Intensity: ${element.intensity}`
+        );
+    });
+
     console.log(data);
     displayDisasters(data);
   })
