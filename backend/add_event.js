@@ -1,3 +1,5 @@
+import { map } from "../frontend/script";
+
 function getData() {
   const name_value = document.getElementById("name").value;
   const long_value = document.getElementById("long").value;
@@ -12,6 +14,8 @@ function getData() {
   console.log(intensity_value);
   console.log(type_value);
   console.log(date_value);
+
+  var marker = L.marker([lat_value, long_value]).addTo(map);
 }
 
 function checkForm() {
