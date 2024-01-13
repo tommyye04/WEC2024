@@ -34,7 +34,7 @@ body, html {
 
 #addEventButton {
    position: relative;
-   top: -500px;
+   top: -680px;
    margin-left: 91px;
    padding: 10px 20px;
    background-color: #54adcb; /* Green background */
@@ -51,7 +51,7 @@ body, html {
 
 #slider, #filters {
     position: relative;
-    top: -480px;
+    top: -640px;
     margin-left: 20px;
     margin-right: 1000px;
 }
