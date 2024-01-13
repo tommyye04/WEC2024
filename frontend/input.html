@@ -31,5 +31,14 @@
           <button type="button" onclick="getData()" id = "add" disabled>Add</button>
         </form>
         <script src = "./backend/add_event.js"></script>
+        <button id="closeForm">Close</button>
+        <script>
+          document.getElementById("closeForm").addEventListener("click", function() {
+          window.parent.postMessage('closeForm', '*');
+        });
+        </script>   
+        
+
     </head>
 </html>
+

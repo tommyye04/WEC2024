@@ -33,9 +33,10 @@ function displayDisasters(data) {
 
   displayElement.appendChild(disasters);
 }
-
+//initialize the map, use a default position
 var map = L.map("map").setView([20, 30], 2);
 
+//use free OpenStreetMap map tiles. This application is not for commercial use.
 const tiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
   attribution:

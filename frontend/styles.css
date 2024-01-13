@@ -25,3 +25,15 @@ body, html {
     position: relative;
     top: -260px;
    }
+
+   #addButtonFrame {
+    position: fixed; /* Fixed position */
+    z-index: 9999; /* Sit on top */
+    left: 0; /* Full width */
+    top: 0; /* Full height */
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.5); /* Black background with 50% opacity */
+
+   }
