@@ -2,8 +2,6 @@ const fs = require('fs');
 // Fetch JSON data from the backend
 fetch("/", { method: "POST" })
   .then((response) => {
-    // Log the raw response
-    console.log(response);
     return response.text();
   })
   .then((text) => {
