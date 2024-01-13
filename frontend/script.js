@@ -16,30 +16,9 @@ fetch("/", { method: "POST" })
     });
 
     console.log(data);
-    displayDisasters(data);
   })
   .catch((error) => console.error("Error:", error));
 
-// Display the received data on the frontend
-function displayDisasters(data) {
-  const displayElement = document.getElementById("displayElement");
-
-  const disasters = document.createElement("ul");
-
-  data.forEach((disaster) => {
-    const disasterEntry = document.createElement("li");
-    disasterEntry.innerHTML = `
-	  <strong>${disaster.Name}</strong><br>
-	  Date: ${disaster.date}<br>
-	  Intensity: ${disaster.intensity}<br>
-	  Location: ${disaster.lat}, ${disaster.long} <br>
-	  Type: ${disaster.type}
-	`;
-    disasters.appendChild(disasterEntry);
-  });
-
-  displayElement.appendChild(disasters);
-}
 //initialize the map, use a default position
 var map = L.map("map").setView([20, 30], 2);
 

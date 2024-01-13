@@ -11,8 +11,6 @@ app.use(express.static("../frontend"));
 app.post("/", function (req, res) {
   // Read the local JSON file
   fs.readFile("./data.json", "utf8", (err, data) => {
-    console.log(data);
-
     if (err) {
       console.error("Error reading JSON file:", err);
       res.status(500).json({ error: "Internal Server Error" });
@@ -29,6 +27,10 @@ app.post("/", function (req, res) {
       res.status(500).json({ error: "Internal Server Error" });
     }
   });
+});
+
+app.post("/add", function (req, res) {
+  console.log("deez");
 });
 
 app.listen(port, () => {
