@@ -14,8 +14,6 @@ fetch("/", { method: "POST" })
           `Name: <strong>${element.Name}</strong> <br> Date: ${element.date} <br> Type: ${element.type} <br> Intensity: ${element.intensity}`
         );
     });
-
-    console.log(data);
   })
   .catch((error) => console.error("Error:", error));
 

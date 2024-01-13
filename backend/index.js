@@ -2,11 +2,17 @@ const express = require("express");
 const app = express();
 const fs = require("fs");
 const parse = require("./index.js");
-const { json } = require("body-parser");
+const bodyParser = require("body-parser");
 const port = 3000;
 
 // Set the static folder to serve HTML files
 app.use(express.static("../frontend"));
+
+// parse application/json
+app.use(bodyParser.json());
+
+// parse application/x-www-form-urlencoded
+app.use(bodyParser.urlencoded({ extended: false }));
 
 app.post("/", function (req, res) {
   // Read the local JSON file
@@ -30,7 +36,24 @@ app.post("/", function (req, res) {
 });
 
 app.post("/add", function (req, res) {
-  console.log("deez");
+  let newItem = {
+    Name: req.body.name,
+    long: req.body.long,
+    lat: req.body.lat,
+    date: req.body.date,
+    intensity: req.body.intensity,
+    type: req.body.type,
+  };
+
+  // Clear the cache for the specific file
+  delete require.cache[require.resolve("./data.json")];
+
+  let rawdata = fs.readFileSync("./data.json");
+  let data = JSON.parse(rawdata);
+  data.push(newItem);
+  fs.writeFileSync("./data.json", JSON.stringify(data, null, 2));
+
+  res.redirect("back");
 });
 
 app.listen(port, () => {

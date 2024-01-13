@@ -4,6 +4,7 @@
       <div>
         <input
           type="text"
+          name="name"
           id="name"
           placeholder="Name"
           required
@@ -14,6 +15,7 @@
       <div>
         <input
           type="text"
+          name="long"
           id="long"
           placeholder="Longitude"
           required
@@ -24,6 +26,7 @@
       <div>
         <input
           type="text"
+          name="lat"
           id="lat"
           placeholder="Latitude"
           required
@@ -34,6 +37,7 @@
       <div>
         <input
           type="text"
+          name="intensity"
           id="intensity"
           placeholder="Intensity"
           required
@@ -44,6 +48,7 @@
       <div>
         <input
           type="text"
+          name="type"
           id="type"
           placeholder="Type"
           required
@@ -54,6 +59,7 @@
       <div>
         <input
           type="date"
+          name="date"
           id="date"
           placeholder="Date"
           required
@@ -62,10 +68,10 @@
         <label>Date</label>
       </div>
 
-      <button type="button" onclick="getData()" id="add" disabled>Add</button>
+      <button type="submit" id="add" disabled onclick="top.location.reload();">
+        Add
+      </button>
     </form>
-
-    <script src="./backend/add_event.js"></script>
     <button id="closeForm">Close</button>
 
     <script>
