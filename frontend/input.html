@@ -1,44 +1,76 @@
-
 <html>
-    <head class="add-event">
-        <form>
-
-          <div>
-            <input type="text" id="name" placeholder="Name" required oninput="checkForm()">
-            <label>Name</label>
-          </div>
-          <div>
-            <input type="text" id="long" placeholder="Longitude" required oninput="checkForm()">
-            <label>Longitude</label>
-          </div>
-          <div>
-            <input type="text" id="lat" placeholder="Latitude" required oninput="checkForm()">
-            <label>Latitude</label>
-          </div>
-          <div>
-            <input type="text" id="intensity" placeholder="Intensity" required oninput="checkForm()">
-            <label>Intensity</label>
-          </div>
-          <div>
-            <input type="text" id="type" placeholder="Type" required oninput="checkForm()">
-            <label>Type</label>
-          </div>
-          <div>
-            <input type="date" id="date" placeholder="Date" required oninput="checkForm()">
-            <label>Date</label>
-          </div>
-          
-          <button type="button" onclick="getData()" id = "add" disabled>Add</button>
-        </form>
-        <script src = "./backend/add_event.js"></script>
-        <button id="closeForm">Close</button>
-        <script>
-          document.getElementById("closeForm").addEventListener("click", function() {
-          window.parent.postMessage('closeForm', '*');
+  <head class="add-event">
+    <form action="/add" method="POST">
+      <div>
+        <input
+          type="text"
+          id="name"
+          placeholder="Name"
+          required
+          oninput="checkForm()"
+        />
+        <label>Name</label>
+      </div>
+      <div>
+        <input
+          type="text"
+          id="long"
+          placeholder="Longitude"
+          required
+          oninput="checkForm()"
+        />
+        <label>Longitude</label>
+      </div>
+      <div>
+        <input
+          type="text"
+          id="lat"
+          placeholder="Latitude"
+          required
+          oninput="checkForm()"
+        />
+        <label>Latitude</label>
+      </div>
+      <div>
+        <input
+          type="text"
+          id="intensity"
+          placeholder="Intensity"
+          required
+          oninput="checkForm()"
+        />
+        <label>Intensity</label>
+      </div>
+      <div>
+        <input
+          type="text"
+          id="type"
+          placeholder="Type"
+          required
+          oninput="checkForm()"
+        />
+        <label>Type</label>
+      </div>
+      <div>
+        <input
+          type="date"
+          id="date"
+          placeholder="Date"
+          required
+          oninput="checkForm()"
+        />
+        <label>Date</label>
+      </div>
+      <button type="button" onclick="getData()" id="add" disabled>Add</button>
+    </form>
+    <script src="./backend/add_event.js"></script>
+    <button id="closeForm">Close</button>
+    <script>
+      document
+        .getElementById("closeForm")
+        .addEventListener("click", function () {
+          window.parent.postMessage("closeForm", "*");
         });
-        </script>   
-        
-
-    </head>
+    </script>
+  </head>
 </html>
-
