@@ -4,5 +4,15 @@ body, html {
 }
 
 #map { 
-    height: 180px; 
+    height: 100%;
+    margin-left: 280px;
+    margin-right: 280px;
+
+}
+
+.leaflet-container {
+    height: 100%;
+    width: 78%;
+    max-width: 100%;
+    max-height: 100%;
 }
