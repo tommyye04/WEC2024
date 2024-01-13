@@ -1,11 +1,17 @@
 const express = require("express");
 const app = express();
 const fs = require("fs");
+const parse = require("./index.js");
 const port = 3000;
 
-app.get("/", function (req, res) {
+// Set the static folder to serve HTML files
+app.use(express.static("../frontend"));
+
+app.post("/", function (req, res) {
   // Read the local JSON file
-  fs.readFile("path/to/your/local/file.json", "utf8", (err, data) => {
+  fs.readFile("./data.json", "utf8", (err, data) => {
+    console.log(data);
+
     if (err) {
       console.error("Error reading JSON file:", err);
       res.status(500).json({ error: "Internal Server Error" });
