@@ -1,29 +1,18 @@
 body, html {
     height: 100%;
     margin: 0;
-}
-
-#map { 
-    height: 100%;
-    margin-left: 280px;
-    margin-right: 280px;
-    display: flex;
+    margin-right: 200px;
 }
 
 .leaflet-container {
     height: 100%;
-    width: 78%;
-    max-width: 100%;
-    max-height: 100%;
+    width: 114.2%;
+    margin-left: 275px;
+    margin-bottom: -30px
 }
 
 .parent-container {
     position: relative;
-   }
-   
-.d-flex, .align-items-start, .flex-column, .flex-shrink-0, .p-3, .bg-body-tertiary {
-    position: relative;
-    top: -260px;
    }
 
    #addButtonFrame {
@@ -41,3 +30,15 @@ body, html {
     font-size: 13px;
    }
 
+#addEventButton {
+    position: relative;
+    top: -500px;
+    margin-left: 40px;
+
+}
+
+#slider, #filters {
+    position: relative;
+    top: -480px;
+    margin-left: 20px;
+}
