@@ -1,13 +1,20 @@
 // Fetch JSON data from the backend
 fetch("/", { method: "POST" })
   .then((response) => {
-    // Log the raw response
-    console.log(response);
     return response.text();
   })
   .then((text) => {
     // Try to parse the text as JSON
     const data = JSON.parse(text);
+
+    data.forEach((element) => {
+      L.marker([element.lat, element.long])
+        .addTo(map)
+        .bindPopup(
+          `Name: <strong>${element.Name}</strong> <br> Date: ${element.date} <br> Type: ${element.type} <br> Intensity: ${element.intensity}`
+        );
+    });
+
     console.log(data);
     displayDisasters(data);
   })
