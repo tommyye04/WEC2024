@@ -1,4 +1,3 @@
-const fs = require('fs');
 // Fetch JSON data from the backend
 fetch("/", { method: "POST" })
   .then((response) => {
@@ -7,6 +6,15 @@ fetch("/", { method: "POST" })
   .then((text) => {
     // Try to parse the text as JSON
     const data = JSON.parse(text);
+
+    data.forEach((element) => {
+      L.marker([element.lat, element.long])
+        .addTo(map)
+        .bindPopup(
+          `Name: <strong>${element.Name}</strong> <br> Date: ${element.date} <br> Type: ${element.type} <br> Intensity: ${element.intensity}`
+        );
+    });
+
     console.log(data);
     displayDisasters(data);
   })
@@ -40,13 +48,3 @@ const tiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
     '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
-
-fs.readFile("./data.json", "utf8", (err, data) => {
-  if (err) {
-    console.error("Error reading JSON file:", err);
-  } else {
-    var jsonData = JSON.parse(data);
-    jsonData.forEach((element) => {
-      var point1 = L.marker([element.lat, element.long]).addTo(map);
-    });
-  }
